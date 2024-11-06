@@ -16,7 +16,6 @@
 - ✏2024.08 정보처리기사 - 필기
 - 🖋2023.06 ADsP
 
-
 ## ⭐Skills
 
 <div align="center">

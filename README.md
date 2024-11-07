@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&logoColor=white">
   <img src="https://img.shields.io/badge/ApacheJmeter-D22128?style=for-the-badge&logo=ApacheJmeter&logoColor=white">
 
-#### Collaboration
+#### Tool
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
 
